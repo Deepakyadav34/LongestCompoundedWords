@@ -3,7 +3,7 @@ import java.util.*;
 
 public class LongestCompoundedWords {
     public static void main(String[] args) {
-        String filename = "C:\\JavaLearning\\Input_01.txt"; // Path of the input file
+        String filename = "Input_01.txt"; // Path of the input file
 
         try {
             Set<String> wordSet = new HashSet<>(); // Creating a HashSet to store unique words
